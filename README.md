@@ -55,7 +55,7 @@ I bring a versatile approach to data storytelling experience spanning business a
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:muhammedsaalah96@gmail.com"></a></td>
+      <td><a href="mailto:muhammedsaalah96@gmail.com">muhammedsaalah96@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
