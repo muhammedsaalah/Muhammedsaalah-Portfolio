@@ -25,41 +25,10 @@ I bring a versatile approach to data storytelling experience spanning business a
 - Consulting clients on KPIs and building real-time dashboards using **Microsoft 365** tools  
 - Created automated reporting solutions from diverse data sources  
 
-### 🔹 Performance Analyst Intern — *Stepout, Bangalore (Remote)*  
-- Tagged & analyzed 200+ football matches from global leagues  
-- Used **Tableau** to extract insights into player performance, game dynamics, and team strategies  
-
-### 🔹 Learning Analyst & Trainer — *Steamcube Pvt Ltd, Kochi*  
-- Managed digital platforms & analyzed content for 200+ teachers using **Excel** and **Power BI**  
-- Trained 100+ educators in tech tools  
-- Delivered **Atal Innovation Mission** workshops in robotics & Industry 4.0 technologies  
-
----
 
 ## 📊 Projects  
 
-### BI 360 – [Power BI and MySQL]  
-🌍 AtliQ's global expansion led to complex challenges and losses in Latin America.  
-🔍 We developed interactive Power BI dashboards for finance, sales, marketing, supply chain, and executive insights.  
-📈 Empowered AtliQ with data-driven strategies for growth.  
-![image](BI360.jpg)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWExYzc0MTAtODU3NS00OTZhLWEwZjEtYzBjNTRjNjViODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
----
-
-### Hospitality Analysis – [Power BI and Excel]  
-🏨 AtliQ Grands faced declining market share and revenue due to poor management decisions.  
-💡 Developed interactive dashboards to analyze key metrics, including RevPAR, ADR, and occupancy.  
-📊 Insights supported decision-making for enhanced performance.  
-![image](hospitality.jpg)  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)  
-
----
-
-## 📜 Certifications  
-- ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
-- 🎯 SPES-Rashtriya Raksha University: Certificate in Sports Analytics  
-- ⚽ Mad About Sports: Advanced Football Analytics Master Class  
 
 ---
 
@@ -98,11 +67,14 @@ I bring a versatile approach to data storytelling experience spanning business a
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/
+muhammedsaalah
+Vanity URL name
+">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
