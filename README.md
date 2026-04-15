@@ -6,10 +6,10 @@
 ## 🌟 About Me  
 I'm a **Data Analyst Intern at Rows & Columns**, passionate about transforming raw data into meaningful insights that drive better decisions.  
 
-I specialize in **Power BI, Excel, SQL, and DAX**, building interactive dashboards and automating reporting processes.  
+I specialize in **Power BI, Excel, SQL Basics, and DAX**, building interactive dashboards and automating reporting processes.  
 I enjoy solving real-world problems using data, with a growing interest in **business analytics and sports analytics**.  
 
-🚀 Always learning, always improving, and always exploring data!
+🚀 Always learning, always improving!
 
 ---
 
@@ -34,21 +34,23 @@ I enjoy solving real-world problems using data, with a growing interest in **bus
 
 ## 📊 Projects  
 
-### 📌 Sales Dashboard (Power BI)  
-- Built an interactive dashboard to track sales performance  
-- Used DAX to calculate KPIs and trends  
-- Improved decision-making with visual insights  
+### 📌 Sales Performance Dashboard (Power BI)  
+- Developed an interactive dashboard to monitor sales performance across regions and product categories  
+- Used **DAX functions** to calculate KPIs such as total revenue, profit margin, and growth rate  
+- Implemented dynamic filters and slicers for better user interaction and insights  
+- Identified key trends and patterns to support data-driven business decisions  
 
-### 📌 Excel Automation Project  
-- Automated manual reporting tasks using formulas and pivot tables  
-- Reduced reporting time and improved accuracy  
+---
 
-*(Add more projects as you build them)*  
+### 📌 Excel Reporting Automation  
+- Automated repetitive reporting tasks using **Excel formulas, Pivot Tables, and charts**  
+- Cleaned and transformed raw data to improve accuracy and consistency  
+- Reduced manual effort and reporting time significantly  
+- Created structured reports for easy interpretation by stakeholders  
 
 ---
 
 ## 🧠 Skills & Tools  
-
 - 📊 **Data Visualization:** Power BI, Tableau  
 - 📑 **Data Analysis:** Excel, SQL  
 - ⚙️ **Other Skills:** DAX, Data Cleaning, Reporting  
@@ -63,27 +65,19 @@ I enjoy solving real-world problems using data, with a growing interest in **bus
 
 ---
 
+## 📄 Download My CV  
+
+👉 [Download CV](./Muhammed_Saalah_CV.pdf)
+
+---
+
 ## 📫 Contact  
 
 📧 Email: [muhammedsaalah96@gmail.com](mailto:muhammedsaalah96@gmail.com)  
 📞 Phone: +91 90379 70147  
 📍 Location: Kannur, Kerala  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammedsaalah)
 
 ---
 
-## 🌐 Connect With Me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammedsaalah)  
-
----
-
-## 📄 Download My CV  
-
-
-👉 [Download CV](./Muhammed_Saalah_CV.pdf)
-
-*(Upload your CV file to your GitHub repo and rename it exactly like above)*  
-
----
-
-⭐ *If you like my work, feel free to check out my repositories and connect!*
+⭐ *If you like my work, feel free to connect and explore my projects!*
