@@ -1,80 +1,88 @@
-# Muhammedsaalah-Portfolio
-👋 Hi, I'm Muhammed Saalah M
- Data Analyst | Data-Driven Decision Making | Transforming Insights into Impact  
+# 👋 Hi, I'm Muhammed Saalah M  
+### 📊 Data Analyst Intern | Turning Data into Insights  
 
-<!--Section 1: Introduction-->
+---
 
 ## 🌟 About Me  
-I'm a  Data Analyst Interns at Rows & Columns, passionate about transforming raw data into actionable insights.  
-Skilled in **Power BI**, **Excel**, **DAX**, and **SQL**, I build dynamic dashboards, streamline reporting workflows, and support data-driven decision-making.  
-I bring a versatile approach to data storytelling experience spanning business and sports analytics.  
-🚀 Let’s turn data into impactful stories!  
+I'm a **Data Analyst Intern at Rows & Columns**, passionate about transforming raw data into meaningful insights that drive better decisions.  
+
+I specialize in **Power BI, Excel, SQL, and DAX**, building interactive dashboards and automating reporting processes.  
+I enjoy solving real-world problems using data, with a growing interest in **business analytics and sports analytics**.  
+
+🚀 Always learning, always improving, and always exploring data!
 
 ---
 
 ## 🎓 Education  
-- **Bcom finance **  
-  *Govt College Mananthavady,Wayanad(2022-2025)*  
+**Bachelor of Commerce (Finance)**  
+*Govt College Mananthavady, Wayanad*  
+📅 2022 – 2025  
 
 ---
 
 ## 💼 Work Experience  
 
-### 🔹 Interns  — *Rows & Columns, Kozhikode*  
-- Leading the analytics team to deliver industry-wide reporting using **Power BI** and **Excel**  
-- Consulting clients on KPIs and building real-time dashboards using **Microsoft 365** tools  
-- Created automated reporting solutions from diverse data sources  
+### 🔹 Data Analyst Intern  
+**Rows & Columns, Kozhikode**  
 
-
-## 📊 Projects  
-
-
+- Assisted in building interactive dashboards using **Power BI**  
+- Supported data analysis and reporting using **Excel and SQL**  
+- Worked with teams to understand KPIs and business requirements  
+- Helped automate reporting workflows using **Microsoft 365 tools**  
 
 ---
 
-## 🧠 Tools & Skills  
-![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
-![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
+## 📊 Projects  
 
+### 📌 Sales Dashboard (Power BI)  
+- Built an interactive dashboard to track sales performance  
+- Used DAX to calculate KPIs and trends  
+- Improved decision-making with visual insights  
+
+### 📌 Excel Automation Project  
+- Automated manual reporting tasks using formulas and pivot tables  
+- Reduced reporting time and improved accuracy  
+
+*(Add more projects as you build them)*  
+
+---
+
+## 🧠 Skills & Tools  
+
+- 📊 **Data Visualization:** Power BI, Tableau  
+- 📑 **Data Analysis:** Excel, SQL  
+- ⚙️ **Other Skills:** DAX, Data Cleaning, Reporting  
 
 ---
 
 ## 🎯 Interests  
 - 📊 Dashboard Design  
 - ⚽ Football & Cricket Analytics  
-- 🎬 Movies & 🎒 Traveling  
+- 🎬 Movies  
+- 🎒 Traveling  
 
 ---
 
-## 📫 Contact Details  
-*Let’s connect and see how we can make a difference together!*  
+## 📫 Contact  
 
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:muhammedsaalah96@gmail.com">muhammedsaalah96@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(+91)903-797-0147</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Kannur, Kerala</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/
-muhammedsaalah
-Vanity URL name
-">Let’s connect on LinkedIn</a></td>
-    </tr>
-  </tbody>
-</table>
+📧 Email: [muhammedsaalah96@gmail.com](mailto:muhammedsaalah96@gmail.com)  
+📞 Phone: +91 90379 70147  
+📍 Location: Kannur, Kerala  
+
+---
+
+## 🌐 Connect With Me  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammedsaalah)  
+
+---
+
+## 📄 Download My CV  
+
+👉 [Download CV](./Muhammed_Saalah_CV.pdf)
+
+*(Upload your CV file to your GitHub repo and rename it exactly like above)*  
+
+---
+
+⭐ *If you like my work, feel free to check out my repositories and connect!*
