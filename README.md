@@ -36,26 +36,28 @@ I enjoy solving real-world problems using data, with a growing interest in **bus
 
 ### 📌 Sales Performance Dashboard (Power BI)  
 - Developed an interactive dashboard to monitor sales performance across regions and product categories  
-- Used **DAX functions** to calculate KPIs such as total revenue, profit margin, and growth rate  
-- Implemented dynamic filters and slicers for better user interaction and insights  
-- Identified key trends and patterns to support data-driven business decisions  
+- Used **DAX functions** to calculate KPIs such as revenue, profit margin, and growth  
+- Implemented slicers and filters for better user interaction  
+- Identified trends to support business decision-making  
 
 ---
 
 ### 📌 Excel Reporting Automation  
-- Automated repetitive reporting tasks using **Excel formulas, Pivot Tables, and charts**  
-- Cleaned and transformed raw data to improve accuracy and consistency  
-- Reduced manual effort and reporting time significantly  
-- Created structured reports for easy interpretation by stakeholders  
+- Automated reporting tasks using **Excel formulas, Pivot Tables, and charts**  
+- Cleaned and structured raw data for better accuracy  
+- Reduced manual work and improved efficiency  
+- Created reports for easy stakeholder understanding  
 
 ---
 
-## 🧠 Tools & Skills  
+## 🧠 Skills & Tools  
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
+<p align="left">
+  <img src="https://img.icons8.com/color/60/power-bi.png"/>
+  <img src="https://img.icons8.com/color/60/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/60/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/60/tableau-software.png"/>
+</p>
 
 ---
 
