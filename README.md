@@ -6,7 +6,7 @@
 ## 🌟 About Me  
 I'm a **Data Analyst Intern at Rows & Columns**, passionate about transforming raw data into meaningful insights that drive better decisions.  
 
-I specialize in **Power BI, Excel, SQL Basics, and DAX**, building interactive dashboards and automating reporting processes.  
+I specialize in **Power BI, Excel, SQL, and DAX**, building interactive dashboards and automating reporting processes.  
 I enjoy solving real-world problems using data, with a growing interest in **business analytics and sports analytics**.  
 
 🚀 Always learning, always improving!
@@ -50,10 +50,12 @@ I enjoy solving real-world problems using data, with a growing interest in **bus
 
 ---
 
-## 🧠 Skills & Tools  
-- 📊 **Data Visualization:** Power BI, Tableau  
-- 📑 **Data Analysis:** Excel, SQL  
-- ⚙️ **Other Skills:** DAX, Data Cleaning, Reporting  
+## 🧠 Tools & Skills  
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
 
 ---
 
@@ -73,10 +75,10 @@ I enjoy solving real-world problems using data, with a growing interest in **bus
 
 ## 📫 Contact  
 
-📧 Email: [muhammedsaalah96@gmail.com](mailto:muhammedsaalah96@gmail.com)  
-📞 Phone: +91 90379 70147  
-📍 Location: Kannur, Kerala  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammedsaalah)
+[![Email](https://img.shields.io/badge/Email-muhammedsaalah96%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedsaalah96@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209037970147-green?style=for-the-badge&logo=phone&logoColor=white)]()  
+[![Location](https://img.shields.io/badge/Location-Kannur%2C%20Kerala-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Saalah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedsaalah)
 
 ---
 
