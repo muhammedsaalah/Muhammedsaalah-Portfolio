@@ -164,6 +164,9 @@ ASAP Kerala / Tally Education | December 2025
   <a href="mailto:muhammedsaalah96@gmail.com">
     <img src="https://img.shields.io/badge/Email-muhammedsaalah96%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+971542353520">
+    <img src="https://img.shields.io/badge/Phone-%2B971%2054%20235%203520-green?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/muhammedsaalah">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Saalah-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -171,6 +174,4 @@ ASAP Kerala / Tally Education | December 2025
 
 📍 **United Arab Emirates**
 
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my projects and connect with me.*
+📞 **+971 54 235 3520**
